@@ -786,9 +786,9 @@
   integrity sha512-I5iKKS8U9L1XdSxsNAIBQekN0U9hTgdleoyntIdR7Jy3U/z/NZ/1oUM0v5HnUMrmn/bXLvYL94rBvaLF++Ndnw==
 
 "@openzeppelin/contracts-upgradeable@^4.6.0":
-  version "4.7.1"
-  resolved "https://registry.npmjs.org/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-4.7.1.tgz"
-  integrity sha512-5EFiZld3DYFd8aTL8eeMnhnaWh1/oXLXFNuFMrgF3b1DNPshF3LCyO7VR6lc+gac2URJ0BlVcZoCfkk/3MoEfg==
+  version "4.9.6"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-4.9.6.tgz#38b21708a719da647de4bb0e4802ee235a0d24df"
+  integrity sha512-m4iHazOsOCv1DgM7eD7GupTJ+NFVujRZt1wzddDPSVGpWdKq1SKkla5htKG7+IS4d2XOCtzkUNwRZ7Vq5aEUMA==
 
 "@openzeppelin/contracts@3.4.2-solc-0.7":
   version "3.4.2-solc-0.7"
